@@ -1,0 +1,29 @@
+{
+"data":[
+ {
+    "position": "QA",
+    "company": "mycompany_My1",
+    "location": "Toronto",
+    "seniority": "junior",
+    "link": "www.linkedin.com",
+    "description": "some text",
+    "time": "two hours ago",
+    "salary": "100k",
+    "date": "2020-06-06T12:00:00"
+},
+
+
+{
+    "position": "Java Developer",
+    "company": "mycompany_My2",
+    "location": "New York",
+    "seniority": "junior",
+    "link": "www.linkedin.com",
+    "description": "some text",
+    "time": "two hours ago",
+    "salary": "100k",
+    "date": "2020-06-06T12:00:00"
+}
+]
+
+}
